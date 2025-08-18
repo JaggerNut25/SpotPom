@@ -36,7 +36,7 @@ class FocusPanel extends StatelessWidget {
             child: Container(
               padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 3),
               decoration: BoxDecoration(
-                color: Colors.grey.withOpacity(0.2),
+                color: Colors.grey.withValues(alpha: 0.2),
                 borderRadius: BorderRadius.circular(5),
               ),
               child: const Text(

@@ -8,5 +8,5 @@ class AppTextStyles {
     height: 1.1,
   );
   static const body = TextStyle(color: Colors.white);
-  static final muted = TextStyle(color: Colors.white.withOpacity(0.6));
+  static final muted = TextStyle(color: Colors.white.withValues(alpha: 0.6));
 }
