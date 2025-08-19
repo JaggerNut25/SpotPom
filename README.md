@@ -8,59 +8,15 @@
 
 **Une application de timer Pomodoro moderne avec intégration Spotify et synchronisation multi-appareils**
 
-[Demo Live](#) • [Documentation](#) • [Flutter Guide](./FLUTTER_GUIDE.md)
+   ### How to proceed ?
+Run these command lines
+- [ ] ```git clone https://github.com/JaggerNut25/SpotPom.git```
+- [ ] ```cd SpotPom```
+- [ ] ```flutter clean && flutter packages get```
+- [ ] ```flutter run```
 
-</div>
-
----
-
-## ✨ Fonctionnalités
-
-### 🎯 Timer Pomodoro
-- Timer personnalisable (25/5/15 minutes par défaut)
-- Cycles automatiques avec pauses courtes et longues
-- Notifications et vibrations
-- Interface cyberpunk moderne avec effets visuels
-
-### 🎵 Intégration Spotify
-- Connexion avec compte Spotify (Premium/Free)
-- Playlists automatiques selon le mode (Focus/Pause)
-- Contrôles de lecture intégrés
-- Affichage du morceau en cours
-
-### 📊 Statistiques avancées
-- Dashboard complet avec métriques détaillées
-- Graphiques interactifs (semaine/mois/année)
-- Système de séries et réalisations
-- Objectifs hebdomadaires personnalisables
-- Analyse de productivité
-
-### 🔄 Synchronisation multi-appareils
-- Sync temps réel entre Windows et Android
-- Codes de synchronisation sécurisés
-- Continuation de sessions entre appareils
-- Sauvegarde cloud automatique
-
-### ⚙️ Paramètres personnalisables
-- Durées de timer configurables
-- Thèmes clair/sombre
-- Notifications personnalisées
-- Sélection de playlists par mode
-
-## 🚀 Démarrage rapide
-
-### Prérequis
-- Node.js 18+
-- Compte Supabase
-- Compte Spotify Developer (optionnel)
-
-### Installation
-
-1. **Cloner le repository**
-```bash
-git clone https://github.com/votre-nom/spotpom.git
-cd spotpom
-```
+git clone https://github.com/JaggerNut25/SpotPom.git
+cd SpotPom
 
 2. **Installer les dépendances**
 ```bash
